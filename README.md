@@ -11,6 +11,4 @@
 <br>
 <br>
 <br>
-<br>
-<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deviljamjar&show_icons=true" alt="deviljamjar" /></p>
