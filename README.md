@@ -20,6 +20,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 09 October, 2020 - 16 October, 2020
+
+Python             4 hrs 53 mins   ███████████████████████▒░   93.33 % 
+reStructuredText   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+YAML               7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+JSON               1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 ```
 <!--END_SECTION:waka-->
