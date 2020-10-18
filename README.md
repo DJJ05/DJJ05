@@ -20,7 +20,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 October, 2020 - 16 October, 2020
+Week: 10 October, 2020 - 17 October, 2020
 
 Python             4 hrs 53 mins   ███████████████████████▒░   93.33 % 
 reStructuredText   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
