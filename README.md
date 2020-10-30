@@ -1,4 +1,4 @@
-[![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=Hey%20I'm%20Devil👋&fontSize=90)](https://github.com/Tim232)<br>
+[![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=Hey%20I'm%20Devil👋&fontSize=90)](https://github.com/DevilJamJar)<br>
 
 # DevilJamJar
 Hey, I'm Devil and I use python, some HTML and CSS if I have to
