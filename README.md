@@ -2,6 +2,7 @@
 
 # DevilJamJar
 Hey, I'm Devil and I use python, some HTML and CSS if I have to
+You can message me at r.s#0001 on Discord, I welcome DMs
 
 ![DevilJamJar's Github Status](https://github-readme-stats.vercel.app/api?username=DevilJamJar&show_icons=true&theme=tokyonight)
 ### Top Languages
