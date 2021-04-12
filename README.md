@@ -1,11 +1,11 @@
-[![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=Hey%20I'm%20Devil👋&fontSize=90)](https://github.com/DevilJamJar)<br>
+[![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=Hey👋&fontSize=90)](https://github.com/DevilJamJar)<br>
 
-# DevilJamJar
-Hey, I'm Devil and I use python, learning go, little bit of rust, some HTML and CSS if I have to, and some C++.
+# Overview
+Hey, I'm Raj and I'm a fairly advanced Python dev from the UK. I use Ubuntu and MacOS to program on, and I know a little bit of C++.
 
-You can message me at r.s#0001 on Discord, I welcome DMs
+You can message me at DJJ05#0001 on Discord, my DMs are always open.
 
-![DevilJamJar's Github Status](https://github-readme-stats.vercel.app/api?username=DevilJamJar&show_icons=true&theme=tokyonight)
+![Github Status](https://github-readme-stats.vercel.app/api?username=DevilJamJar&show_icons=true&theme=tokyonight)
 ### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevilJamJar&theme=tokyonight)<br/>
 
