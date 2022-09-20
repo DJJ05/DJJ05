@@ -1,4 +1,4 @@
-[![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=150&section=header&text=Hey👋&fontSize=45)](https://github.com/DJJ05)<br>
+[![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=200&section=header&text=DJJ05&fontSize=45)](https://github.com/DJJ05)<br>
 
 # Overview
 Hi, I'm an advanced backend Python dev from the UK. I use Kali and MacOS.
